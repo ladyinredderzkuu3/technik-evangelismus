@@ -1,1 +1,4 @@
 # Hier können die erforderlichen Abhängigkeiten aufgelistet werden.
+flask
+requests
+numpy
