@@ -1,10 +1,10 @@
 # Community Forum
 
 ## Regeln
-- Sei respektvoll.
-- Halte dich an die Themen.
-- Keine Spam-Nachrichten.
-- Kein Hassreden.
+- Sei respektvoll und freundlich.
+- Halte dich an die Themen des Forums.
+- Keine Spam-Nachrichten oder Werbung.
+- Keine Hassreden oder beleidigende Inhalte.
 
 ## Diskussionsthemen
 1. Erfahrungen mit Online-Lernplattformen.
