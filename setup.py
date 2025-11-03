@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='technik_evangelismus',
-    version='0.3',
+    version='0.4',
     packages=find_packages(),
     description='Ein Projekt zur Integration moderner Technologien im Bildungsbereich.',
     author='Technik Evangelismus Team',
