@@ -4,6 +4,7 @@
 - Sei respektvoll.
 - Halte dich an die Themen.
 - Keine Spam-Nachrichten.
+- Kein Hassreden.
 
 ## Diskussionsthemen
 1. Erfahrungen mit Online-Lernplattformen.
